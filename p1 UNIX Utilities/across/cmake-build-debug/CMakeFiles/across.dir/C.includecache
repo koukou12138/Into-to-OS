@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangkoukou/Desktop/cs537/across/across.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+

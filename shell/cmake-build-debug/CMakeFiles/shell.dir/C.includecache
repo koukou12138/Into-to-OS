@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangkoukou/Desktop/cs537/shell/mysh.c
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+ctype.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+fcntl.h
+-
+

@@ -1,0 +1,3 @@
+/Users/wangkoukou/Desktop/cs537/p6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wangkoukou/Desktop/cs537/p6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangkoukou/Desktop/cs537/p6/cmake-build-debug/CMakeFiles/p6.dir

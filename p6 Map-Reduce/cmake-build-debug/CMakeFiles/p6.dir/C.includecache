@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangkoukou/Desktop/cs537/p6/mapreduce.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+mapreduce.h
+/Users/wangkoukou/Desktop/cs537/p6/mapreduce.h
+
+/Users/wangkoukou/Desktop/cs537/p6/mapreduce.h
+
